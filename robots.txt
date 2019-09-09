@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ekangilofo.amptrack.de/sitemap.xml
